@@ -1,3 +1,7 @@
+Analyses and scripts are stored in /analysis_scripts/
+
+Source of data:
+
 # COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 
 
